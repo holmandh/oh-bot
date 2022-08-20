@@ -1,0 +1,49 @@
+{
+  "bot-account": {
+    "username": "doki",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "h64666.aternos.me",
+    "port": 23118,
+    "version": "1.17.1"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": -9999,
+    "y": 70,
+    "z": 2098
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": "313879"
+    },
+
+    "anti-afk": {
+      "enabled":true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": false,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "I'm a regular player ",
+        "My owner is urFate_ ",
+        "I want be alone ",
+        "Visit my GitHub page! (urFate/Afk-Bot)"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5
+  }
+}
