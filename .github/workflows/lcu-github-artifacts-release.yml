@@ -13,7 +13,7 @@ env:
   Branches: main
   MainBranch: main
   NPMRegistry: https://registry.npmjs.org/
-  InstallCommand: npm install mineflayer &amp; npm install mineflayer-pathfinder
+  InstallCommand: npm install mineflayer-pathfinder &amp; npm install mineflayer
   BuildCommand: node bot.js
   Output: ./build
 
